@@ -1,2 +1,2 @@
-# aws-bootcamp-cruddur-2023
+# aws-cloud-projects
 AWS Bootcamp Projects
